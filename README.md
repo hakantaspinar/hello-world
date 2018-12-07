@@ -1,2 +1,3 @@
 # hello-world
-ideas
+
+This repository consist of the ideas.
